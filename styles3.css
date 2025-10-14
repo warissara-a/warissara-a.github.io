@@ -1,0 +1,180 @@
+
+body{
+    background-color: rgb(206, 189, 222);
+    margin-bottom: 0px;
+    
+   
+}
+
+
+.text{
+  margin: 200px;
+  margin-top: 540px;
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80px;
+  color: rgb(41, 5, 57);
+  text-align: center;
+}
+
+.img2{
+    float: right;
+    width: 470px;
+    height: auto;
+    position: absolute;
+    margin-top: -450px;
+    margin-left: 465px;
+
+
+}
+
+
+img{
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+.img3{
+    width: 220px;
+    height: auto;
+    position: absolute;
+    margin-top: -480px;
+    margin-left:150px;
+}
+
+
+.img5{
+    width: 195px;
+    height: auto;
+    position: absolute;
+    margin-top: -588px;
+    margin-left:168px;
+}
+
+.img6{
+    width: 175px;
+    height: auto;
+    position: absolute;
+    margin-top: -685px;
+    margin-left:176px;
+}
+
+.img7{
+    width: 150px;
+    height: auto;
+    position: absolute;
+    margin-top: -777px;
+    margin-left:190px;
+}
+
+.img8{
+    width: 220px;
+    height: auto;
+    position: absolute;
+    margin-top: -473px;
+    margin-left:1070px;
+}
+
+.img9{
+    width: 190px;
+    height: auto;
+    position: absolute;
+    margin-top: -587px;
+    margin-left:1082px;
+}
+
+.img10{
+    width: 170px;
+    height: auto;
+    position: absolute;
+    margin-top: -687px;
+    margin-left:1093px;
+}
+
+.img11{
+    width: 156px;
+    height: auto;
+    position: absolute;
+    margin-top: -775px;
+    margin-left:1101px;
+}
+
+
+
+
+
+@media screen and (min-width:600px) {
+    
+    
+}
+
+@media screen and (min-width:768px) {
+    .grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 50px;
+    }
+    
+}
+
+@media screen and (min-width:960px) {
+    .grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 50px;
+    }
+    
+}
+
+@media screen and (min-width:1280px) {
+    .grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 50px;
+    }
+    
+}
+
+main{
+    margin: 120px;
+    line-height: 3;
+    font-family: "Gorditas", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+    color: rgb(73, 46, 84);
+    margin-bottom: 0px;
+
+   
+}
+
+.text2{
+  font-family: "Gorditas", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 28px;
+  color: rgb(31, 4, 43);
+  margin-bottom: 20px;
+}
+
+
+.text3{
+  font-family: "Gorditas", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 22px;
+  color: rgb(73, 46, 84);
+}
+
+.img12{
+    width: 600px;
+    height: auto;
+    position: absolute;
+    margin-top: 38170px;
+    margin-left:40rem;
+   
+
+}
